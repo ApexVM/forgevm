@@ -5,9 +5,9 @@ Tak postanowiłam założyć swój hosting serwerów Minecraft bo aternos nie wy
 ### Instalacja
 Najpierw musisz mieć Windowsa 10 lub jakiegoś linuksa (ta nie używam to nwm)
 Jeśli uzywasz Windowsa, otwórz plik forgevm-server.cxx w Dev C++ i go skompiluj
-E Slara, weź mi kompilator na linuksa zrób 
+(E Slara, weź mi kompilator na linuksa zrób )
 
-Po otwarciu aplikacji powinna wyświetli się lista wersji Minecrafta, jeśli chcesz zainstalować np wersję 1.16.5 to wpisujesz
+Po otwarciu aplikacji powinna wyświetlić się lista wersji Minecrafta, jeśli chcesz zainstalować np wersję 1.16.5 to wpisujesz
 ```
 install 1165
 ```
