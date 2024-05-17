@@ -14,6 +14,7 @@ int main()
     cout << "Lista serwerow dostepna pod /lista" << endl;
     cout << "Uruchomisz serwer pod /run ALIAS" << endl;
     cout << "Wgrasz serwer pod /install ALIAS" << endl;
+    cout << "Edytuj swoj plik konfiguracyjny pod /edit ALIAS" << endl;
     cout << "Milej zabawy z przyjaciolmi!" << endl;
   }
   else if(jezyk=="EN")
