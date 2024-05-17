@@ -16,6 +16,8 @@ int main()
     cout << "Wgrasz serwer pod /install ALIAS" << endl;
     cout << "Edytuj swoj plik konfiguracyjny pod /edit ALIAS" << endl;
     cout << "Milej zabawy z przyjaciolmi!" << endl;
+    cout << endl;
+    
   }
   else if(jezyk=="EN")
   {
