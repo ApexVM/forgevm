@@ -9,22 +9,28 @@ Jeśli uzywasz Windowsa, otwórz plik forgevm-server.cxx w Dev C++ i go skompilu
 
 Po otwarciu aplikacji powinna wyświetlić się lista wersji Minecrafta, jeśli chcesz zainstalować np wersję 1.16.5 to wpisujesz
 ```
-install 1165
+/install 1165
 ```
 Następnie jeśli masz już zainstalowaną wersję, możesz uruchomić serwer (do tego polecam skontaktować się z ApexVM by dali tobie pliki do avm runnera)
 Jeśli nadal używasz ForgeVM to uruchomisz swój serwer wpisując 
 ```
-run 1165
+/run 1165
 ```
 Po prostu zamień 1165 na twoją wersję Minecrafta
 
 ### Aliasy
 Aliasy to wersje Minecrafta które wprowadzamy do ForgeVM, na przykład wersja 1.20.4 ma alias 1204, 1.16.5 - 1165, 1.12.2 - 1122, 1.8.9 - 189 itd.
 
+Możesz wyświetlić wersje dostępne w ForgeVM wpisując:
+```
+/lista
+```
+Następnie przejdź do sekcji Instalacja
+
 ### Jak edytować pliki konfiguracyjne? 
 Po prostu wpisz edit ALIAS, np:
 ```
-edit 1165
+/edit 1165
 ```
 
 ### Czy mod X ruszy na moim serwerze?
