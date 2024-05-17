@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-  int wpis;
+  string wpis;
   string jezyk;
   cout << "Wybierz jezyk/select lang (PL/EN)" << endl;
   cin >> jezyk;
@@ -17,7 +17,8 @@ int main()
     cout << "Edytuj swoj plik konfiguracyjny pod /edit ALIAS" << endl;
     cout << "Milej zabawy z przyjaciolmi!" << endl;
     cout << endl;
-    
+    cout << "Wpisz polecenie:";
+    cin >> wpis;
   }
   else if(jezyk=="EN")
   {
