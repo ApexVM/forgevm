@@ -19,6 +19,10 @@ int main()
     cout << endl;
     cout << "Wpisz polecenie:";
     cin >> wpis;
+    if(wpis=="/lista");
+    if(wpis=="/run");
+    if(wpis=="/install");
+    if(wpis=="/edit");
   }
   else if(jezyk=="EN")
   {
