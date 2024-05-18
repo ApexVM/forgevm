@@ -23,6 +23,8 @@ int main()
     if(wpis=="/run");
     if(wpis=="/install");
     if(wpis=="/edit");
+    if(wpis=="/kremowka"):
+    if(wpis=="/bomba");
   }
   else if(jezyk=="EN")
   {
