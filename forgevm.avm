@@ -1,0 +1,9 @@
+LOCAL_SERVICE=false
+SERVICE_PORT=YOUR_PORT
+USE_ROOT=false
+VERIFED=false
+AVM_RUNNER=true
+RAM=512
+APP="YOUR_APP.jar"
+
+java -jar $APP -m $RAM
