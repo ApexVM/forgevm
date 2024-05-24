@@ -45,6 +45,10 @@ Ta pewno nie włączyłeś opcji non-premium wpisz edit ALIAS w cmd.exe i znajd�
 ### Jak mam to udostępnić koledze?
 No użyj avm forwadera, serveo czy innych, widziałam że Slara ma SelfHoster więc też polecam sprawdzić, są różne możliwości hostowania tych serwerów :)
 
+**SelfHoster is the way here as all other tools are designed to host web apps and SelfHoster uses serveo as base**
+
+**To use SelfHoster, wget it from SelfHoster repository and run selfhoster.sh**
+
 ### Czy to jest legit (bez wirusów)?
 Cały program jest bezpieczny i stworzony przy użyciu chatu gpt i moich skillów więc no... jest git.
 
