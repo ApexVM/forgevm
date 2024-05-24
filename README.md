@@ -12,6 +12,9 @@ Po otwarciu aplikacji powinna wyświetlić się lista wersji Minecrafta, jeśli 
 /install 1165
 ```
 Następnie jeśli masz już zainstalowaną wersję, możesz uruchomić serwer (do tego polecam skontaktować się z ApexVM by dali tobie pliki do avm runnera)
+
+**Files for avm are here, the file forgevm.avm is file for avm you can use it by running setup.sh (by Slara)**
+
 Jeśli nadal używasz ForgeVM to uruchomisz swój serwer wpisując 
 ```
 /run 1165
