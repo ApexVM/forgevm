@@ -20,6 +20,11 @@ int main()
     cout << "Wpisz polecenie:";
     cin >> wpis;
     if(wpis=="/lista");
+    {
+      cout << "Dostepne serwery ForgeVM: " << endl;
+      cout << "1204, 1165, 1122, 189" << endl
+      cout << "Zainstaluj serwer pod /install ALIAS" << endl;
+    }
     if(wpis=="/run");
     if(wpis=="/install");
     if(wpis=="/edit");
