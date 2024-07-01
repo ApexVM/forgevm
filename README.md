@@ -1,4 +1,7 @@
 # ForgeVM
+# Prekursorem Vortex Cloud był właśnie ForgeVM, lecz zawsze chciałam stworzyć realny hosting i tak Vortex nim jest!
+# Cały Vortex jednak bazuje na moim systemie i vpsach
+# ForgeVM to jednak launcher na hostingi i będę go rozwijać ale jest na vanila nie na mody czy inne, wszystkich zapraszam do rozszerzenia tego programu :)
 ## ForgeVM czyli (kolejny) darmowy hosting serwerów Minecraft bazujący na runcode z ApexVM
 Tak postanowiłam założyć swój hosting serwerów Minecraft bo aternos nie wyrabia a komputery runcode są serio mocne, więc tak całą bazą jest tak naprawdę moja instancja runcode na której mam postawiony mały serwer do zarządzania wirtualnymi komputerami, na testach runcode się nie zaciął ale nwm jak gdy kilka osób go używa :)
 
